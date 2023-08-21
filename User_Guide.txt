@@ -1,0 +1,22 @@
+---------------------------
+Important Information
+---------------------------
+
+1. Do not delete the "resources" folder:
+   The "resources" folder contains necessary files for the tool to function properly. Deleting it may cause errors in the tool's operation. Make sure to keep this folder intact.
+
+2. Editing the "data.txt" file:
+   The "data.txt" file contains tag information that the tool relies on. You can modify this file to update or add tag descriptions. However, be cautious not to break the file's format.
+
+3. Using the tool:
+   - Run the script and select an image file to view its metadata.
+   - The generated HTML page will display metadata information along with a link to open the image file.
+
+4. GitHub Repository:
+   The source code for this tool can be found at my github profile. Feel free to provide feedback.
+
+Thank you for using this tool! If you have any questions or concerns, don't hesitate to reach out.
+
+Github : @Shuuubhraj
+
+Rajput Shubhraj Singh
